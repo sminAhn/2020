@@ -10,3 +10,5 @@
 [\[월간 데이터 분석\] 지하철 앉아서 가고 싶다!!](https://brunch.co.kr/@bdh/12)
 
 [경기도 교통정보센터](https://gits.gg.go.kr/gtdb/web/trafficDb/railRoad/TransitSWPass.do)
+
+[서울시 유동인구 데이터- 19년10월](https://www.bigdatahub.co.kr/product/view.do?pid=1002261)
