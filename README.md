@@ -8,3 +8,5 @@
 [스마트 빅 데이터 분석: 서울시 지하철 승객 예측\(PDF\)](http://kdb.snu.ac.kr/wp-content/uploads/2015/07/smart%20bigdata%20analysis.pdf)
 
 [\[월간 데이터 분석\] 지하철 앉아서 가고 싶다!!](https://brunch.co.kr/@bdh/12)
+
+[경기도 교통정보센터](https://gits.gg.go.kr/gtdb/web/trafficDb/railRoad/TransitSWPass.do)
