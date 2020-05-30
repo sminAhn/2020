@@ -12,3 +12,12 @@
 [경기도 교통정보센터](https://gits.gg.go.kr/gtdb/web/trafficDb/railRoad/TransitSWPass.do)
 
 [서울시 유동인구 데이터- 19년10월](https://www.bigdatahub.co.kr/product/view.do?pid=1002261)
+
+
+### 참고자료들
+
+[코로나 관련 분석예시](https://dacon.io/m/competitions/official/235590/codeshare/930)
+
+
+
+
